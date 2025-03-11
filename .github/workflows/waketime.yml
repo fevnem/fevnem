@@ -4,14 +4,20 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-charts:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: therocketor/wakatime-charts@master
+      - uses: therocketor/wakatime-charts@master  # Your custom fork
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # only required if using the action in a repo other than profile
+          
+      # If you are using actions/cache in your workflow, update to v4 like this:
+      - uses: actions/cache@v4  # ✅ Update cache action to v4
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-build-${{ hashFiles('**/package-lock.json') }}
