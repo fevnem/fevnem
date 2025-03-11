@@ -15,6 +15,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # only required if using the action in a repo other than profile
+          BRANCH_NAME: main  # Change this to `main` if your repository uses `main` instead of `master`
           
       # If you are using actions/cache in your workflow, update to v4 like this:
       - uses: actions/cache@v4  # ✅ Update cache action to v4
