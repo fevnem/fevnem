@@ -4,16 +4,44 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
-
-permissions:
-  contents: write  # Grant write access to contents
-  pull-requests: write  # Grant write access to PRs
+    - cron:  '0 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-      # other steps...
+    - name: Check out repo
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - uses: actions/cache@v3
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+
+    - name: Update README
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure the token has write permissions
+      run: |-
+        python build_readme.py  # Make sure your script updates the README file correctly
+        cat README.md           # Print the README content after update to verify
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "rakib@outlook.jp"  # Replace with your email
+        git config --global user.name "therocketor-bot"    # Replace with your bot username
+        git pull
+        git add -A  # This ensures all changes (even unstaged) are added
+        git commit -m "Updated content" || echo "No changes to commit"  # Skip if no changes
+        git push
