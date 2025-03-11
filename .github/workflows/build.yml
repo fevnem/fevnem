@@ -31,10 +31,8 @@ jobs:
         python -m pip install -r requirements.txt
 
     - name: Update README
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Ensure the token has write permissions
       run: |-
-        python build_readme.py  # Make sure your script updates the README file correctly
+        python build_readme.py  # Ensure your script updates the README file correctly
         cat README.md           # Print the README content after update to verify
 
     - name: Commit and push if changed
