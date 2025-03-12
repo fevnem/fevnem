@@ -31,8 +31,7 @@
 #### 🤾‍♂️ <a href="https://github.com/therocketor" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://therocketor.github.io/posts/table-of-content/' target='_blank'>Table of content</a> - 
-* <a href='https://therocketor.github.io/pages/about/' target='_blank'>About</a> - Mon, 01 Jan 0001 00:00:00 +0000
+
 <!-- blog ends -->
 
 </td>
