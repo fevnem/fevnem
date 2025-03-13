@@ -9,9 +9,9 @@
 #### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/bb6afc7e16fa21de4c6bbde945406bc8aa1a1d8a/Images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/bb6afc7e16fa21de4c6bbde945406bc8aa1a1d8a/Images/wakatime_weekly_language_stats.svg">
-  <img src="https://raw.githubusercontent.com/therocketor/therocketor/bb6afc7e16fa21de4c6bbde945406bc8aa1a1d8a/Images/wakatime_weekly_language_stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats.svg">
+  <img src="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats.svg">
 </picture>
 
 </td>
