@@ -1,4 +1,4 @@
-## Hello, World
+## Hello
 
 <img src='https://raw.githubusercontent.com/therocketor/therocketor/refs/heads/main/Images/hi.gif' alt='Hi' width="20"/> Hi, I'm rocket, a Frontend Engineer, also dabbling a bit in Swift, Rust, Python, and Sketch. . Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a>:
 
