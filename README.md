@@ -31,7 +31,11 @@
 #### 🤾‍♂️ <a href="https://github.com/nexquivor" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-
+* <a href='https://therocketor.github.io/blog/article-1/' target='_blank'>Advanced TypeScript Patterns</a> - Fri, 23 Feb 2024 00:00:00 GM
+* <a href='https://therocketor.github.io/blog/article-10/' target='_blank'>Next.js Server Components</a> - Sun, 03 Mar 2024 00:00:00 GM
+* <a href='https://therocketor.github.io/blog/article-11/' target='_blank'>Machine Learning in JavaScript</a> - Mon, 04 Mar 2024 00:00:00 GM
+* <a href='https://therocketor.github.io/blog/article-12/' target='_blank'>AWS Lambda Best Practices</a> - 
+* <a href='https://therocketor.github.io/blog/article-13/' target='_blank'>CSS Grid Advanced Layouts</a> - Wed, 06 Mar 2024 00:00:00 GM
 <!-- blog ends -->
 
 </td>
