@@ -9,15 +9,15 @@
 #### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats.svg">
-  <img src="https://raw.githubusercontent.com/therocketor/therocketor/main/images/wakatime_weekly_language_stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats.svg">
+  <img src="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats.svg">
 </picture>
 
 </td>
 <td valign="top" width="50%">
 
-#### 🪂 <a href="https://github.com/therocketor/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+#### 🪂 <a href="https://github.com/nexquivor/nexquivor/blob/master/releases.md" target="_blank">Product Releases</a>
 
 <!-- recent_releases starts -->
 
@@ -28,7 +28,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://github.com/therocketor" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://github.com/nexquivor" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 
@@ -37,7 +37,7 @@
 </td>
 <td valign="top" width="50%">
 
-#### 🩴 <a href="https://github.com/therocketor" target="_blank">Trend Weekly</a>
+#### 🩴 <a href="https://github.com/nexquivor" target="_blank">Trend Weekly</a>
 
 <!-- weekly starts -->
 
