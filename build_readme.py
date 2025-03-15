@@ -115,7 +115,7 @@ def fetch_weekly():
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://therocketor.github.io/rss.xml")["entries"]
+    entries = feedparser.parse("https://nexquivor.github.io/rss.xml")["entries"]
     return [
         {
             "title": entry["title"],
