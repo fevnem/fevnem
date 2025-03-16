@@ -1,6 +1,6 @@
 ## Hello, World
 
-<img src='https://raw.githubusercontent.com/nexquivor/nexquivor/refs/heads/main/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Nex, a Frontend Engineer, also dabbling a bit in Swift, Rust, Python, and Sketch. . Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/therocketor/therocketor/actions" target="_blank">Actions</a>:
+<img src='https://raw.githubusercontent.com/nexquivor/nexquivor/refs/heads/main/images/hi.gif' alt='Hi' width="20"/> Hi, I'm Nex, a Frontend Engineer, also dabbling a bit in Swift, Rust, Python, and Sketch. . Believing in long-termism, I am passionate about open source and enjoy experimenting with new ideas. The content below is automatically updated via <a href="https://github.com/therocketor/therocketor/actions" target="_blank">Actions</a>
 
 <table width="960px">
 <tr>
