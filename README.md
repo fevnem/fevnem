@@ -14,8 +14,6 @@
 [![GitHub Page](https://img.shields.io/badge/.github.io-67136f?style=for-the-badge)](https://.github.io/)
 -->
 
-### 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fevnem/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/fevnem/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
@@ -24,7 +22,7 @@
 
 <details align="left">
   <summary></summary> 
- 
+ ### Languages Mostly In Use:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <span><img src="https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript"></span>
   <span><img src="https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript"></span>
