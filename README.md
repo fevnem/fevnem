@@ -6,9 +6,10 @@
     <span>Rakib Hasan</span>
 </h1>
 
-<p align="justify">h HTML, CSS and a little bit of JavaScript and Notepad++. 
-<br>
-  <a href="https://www.instagram.com//">(@elicosmaker)</a>.</p>
+<p align="justify">
+
+    
+</p>
   
 <!--
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
