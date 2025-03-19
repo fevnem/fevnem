@@ -69,6 +69,6 @@
 
 </table>
 
-  <div align="right">Made with 💜 by <a href="https://github.com/fevnem">tri</a>.</div>
+  <div align="right">Made with 💜 by <a href="https://github.com/fevnem">tri</a></div>
 
 </details>
