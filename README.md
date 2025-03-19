@@ -6,9 +6,15 @@
     <span>Rakib Hasan</span>
 </h1>
 
-<p align="justify">
-Passionate Python developer specializing in automation, bots, and API integrations. Proficient in Git, GitHub, and scalable system design, I continuously refine my craft through open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, optimizing performance, and innovating automation solutions. Currently expanding expertise in AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push boundaries in the world of automation.
+<p style="text-align: justify; text-justify: inter-word;">
+Passionate Python developer specializing in automation, bots, and API integrations. 
+Proficient in Git, GitHub, and scalable system design, I continuously refine my craft through 
+open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, 
+optimizing performance, and innovating automation solutions. Currently expanding expertise in 
+AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push 
+boundaries in the world of automation.
 </p>
+
   
 <!--
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
