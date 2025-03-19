@@ -23,7 +23,7 @@
 
 <details align="left">
   <summary></summary> 
-<h4><span style="background-color: yellow;">Languages Mostly In Use:</span></h4>
+<h4><span>Languages Mostly In Use:</span></h4>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <span><img src="https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript"></span>
   <span><img src="https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript"></span>
