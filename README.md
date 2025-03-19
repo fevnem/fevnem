@@ -9,15 +9,18 @@
 <p align="justify">h HTML, CSS and a little bit of JavaScript and Notepad++. 
 <br>
   <a href="https://www.instagram.com//">(@elicosmaker)</a>.</p>
+  
 <!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://fevnem.github.io/)
+
 [![GitHub Page](https://img.shields.io/badge/.github.io-67136f?style=for-the-badge)](https://.github.io/)
 -->
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://fevnem.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fevnem/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/fevnem/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:hilary.pessoal@hotmail.com)
+
 <details align="left">
   <summary></summary> 
 <h4><span style="background-color: yellow;">Languages Mostly In Use:</span></h4>
