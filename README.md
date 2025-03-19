@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="tri" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
     <a href="https://fevnem.github.io/">
@@ -17,8 +17,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fevnem/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/fevnem/)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
-
-
 
 <details align="left">
   <summary></summary> 
@@ -49,16 +47,16 @@
   #### 🏊‍♂️ Weekly Development Breakdown
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats.svg">
-  <img src="https://raw.githubusercontent.com/nexquivor/nexquivor/main/images/wakatime_weekly_language_stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats_black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats.svg">
+  <img src="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats.svg">
 </picture>
 
 
 </td>
 <td valign="top" width="50%">
 
-#### 🤾‍♂️ <a href="https://github.com/nexquivor" target="_blank">Recent Blog</a>
+#### 🤾‍♂️ <a href="https://fevnem.github.io" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
 
