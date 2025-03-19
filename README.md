@@ -12,7 +12,7 @@ Proficient in Git, GitHub, and scalable system design, I continuously refine my 
 open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, 
 optimizing performance, and innovating automation solutions. Currently expanding expertise in 
 AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push 
-boundaries in the world of automation.
+boundaries in the world of automation. See Latest Posts <a href"https://dev.to/fevnem">@fevnem</a>
 </p>
 
   
