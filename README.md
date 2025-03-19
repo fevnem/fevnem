@@ -47,7 +47,7 @@
 <tr>
 <td valign="top" width="50%">
 
-  #### 🏊‍♂️ Screen
+  #### 🏊‍♂️ Screentime
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats_black.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats.svg">
