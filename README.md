@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>
-    <a href="https://elidianaandrade.github.io/">
+    <a href="https://fevnem.github.io/">
      <img align="center" alt="Logo Rakib Hasan" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
     <span>Rakib Hasan</span>
 </h1>
@@ -22,7 +22,7 @@
 
 <details align="left">
   <summary></summary> 
-<span style="background-color: yellow;">Languages Mostly In Use:</span>
+<h1><span style="background-color: yellow;">Languages Mostly In Use:</span></h1>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <span><img src="https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript"></span>
   <span><img src="https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript"></span>
