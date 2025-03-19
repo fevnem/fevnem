@@ -22,7 +22,7 @@
 
 <details align="left">
   <summary></summary> 
- #### Languages Mostly In Use:
+ ## Languages Mostly In Use:
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <span><img src="https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript"></span>
   <span><img src="https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript"></span>
