@@ -42,7 +42,7 @@
   <span><img src="https://img.shields.io/badge/JSON-000?style=flat&logo=json"></span>
 </div>
     
-<h4><span>Table Below Is Automatically Updates By Github [Actions](https://github.com/fevnem/fevnem/actions)</span></h4>
+<h4><span>Table Below Is Automatically Updates By Github <a href="https://github.com/fevnem/fevnem/actions">Actions</a></h4>
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
