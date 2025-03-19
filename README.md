@@ -42,8 +42,9 @@
   <span><img src="https://img.shields.io/badge/JSON-000?style=flat&logo=json"></span>
 </div>
     
-<h4>Table Below Is Automatically Updates By <a href="https://github.com/fevnem/fevnem/actions">Github Actions</a></h4>
-<h4>To Know About Github Actions:<a href="https://docs.github.com/en/actions/writing-workflows/quickstarts">*Docs</a> </h4>
+<h4>Table Below Is Automatically Updates By <a href="https://github.com/fevnem/fevnem/actions">Github Actions</a>
+To Know About Github Actions:<a href="https://docs.github.com/en/actions/writing-workflows/quickstarts">Docs</a>| <a href="https://github.com/orgs/community/discussions/48283">FAQs</a></h4>
+
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
