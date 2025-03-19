@@ -38,7 +38,7 @@
   <span><img src="https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git"></span>
   <span><img src="https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github"></span>
   <span><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter"></span>
-
+  <span><img src="https://img.shields.io/badge/JSON-000?style=flat&logo=json"></span>
 </div>
 
  
