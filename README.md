@@ -7,7 +7,7 @@
 </h1>
 
 <p align="justify">
-Passionate Python developer specializing in automation, bots, and API integrations,Proficient in Git, GitHub, and scalable system design, I continuously refine my craft through open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, optimizing performance, and innovating automation solutions. Currently expanding expertise in AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push boundaries in the world of automation.
+Passionate Python developer specializing in automation, bots, and API integrations. Proficient in Git, GitHub, and scalable system design, I continuously refine my craft through open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, optimizing performance, and innovating automation solutions. Currently expanding expertise in AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push boundaries in the world of automation.
 </p>
   
 <!--
@@ -30,15 +30,14 @@ Passionate Python developer specializing in automation, bots, and API integratio
   <span><img src="https://img.shields.io/badge/-React%20Native-2f1a47?style=flat&logo=react"></span>
   <span><img src="https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js"></span>
   <span><img src="https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5"></span>
+    
   <span><img src="https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5"></span>
   <span><img src="https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js"></span>
   <span><img src="https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss"></span>
   <span><img src="https://img.shields.io/badge/-Markdown-2f1a47?style=flat&logo=markdown"></span>
   <span><img src="https://img.shields.io/badge/-Electron-2f1a47?style=flat&logo=electron"></span>
   <span><img src="https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git"></span>
-  <span><img src="https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github"></span>
-  <span><img src="https://img.shields.io/badge/Hyper-000000?style=flat&logo=hyper"></span>
-  <span><img src="https://img.shields.io/badge/JSON-000?style=flat&logo=json"></span>
+  
 </div>
     
 <h4>Table Content Automatically Updated Via <a href="https://github.com/fevnem/fevnem/actions">Github Actions</a>
