@@ -43,7 +43,7 @@
 </div>
     
 <h4>Table Content Automatically Updated Via <a href="https://github.com/fevnem/fevnem/actions">Github Actions</a>
-<br>To Learn More About Github Actions <a href="https://docs.github.com/en/actions/writing-workflows/quickstarts">See Docs</a></a></h4>
+<br>To Learn More About Github Actions <a href="https://docs.github.com/en/actions/writing-workflows/quickstarts">See Docs</a>Or <a href="https://github.com/orgs/community/discussions/48283">FAQ</a></h4>
 
 <table width="960px">
 <tr>
