@@ -46,8 +46,7 @@
 #### 🤾‍♂️ <a href="https://github.com/nexquivor" target="_blank">Recent Blog</a>
 
 <!-- blog starts -->
-* <a href='https://therocketor.github.io/blog/welcome/' target='_blank'>Welcome to My Digital Garden</a> - 
-* <a href='https://therocketor.github.io/blog/webassembly-blog-post/' target='_blank'>WebAssembly: The Future of Web Performance</a> - 
+
 <!-- blog ends -->
 
 </td>
