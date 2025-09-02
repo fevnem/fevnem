@@ -11,7 +11,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: therocketor/wakatime-charts@master  # Your custom fork
+      - uses: fevnem/wakatime-charts@master  # Your custom fork
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # only required if using the action in a repo other than profile
