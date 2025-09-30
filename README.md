@@ -67,7 +67,6 @@ boundaries in the world of automation. See Latest Posts <a href="https://dev.to/
 
 <!-- blog starts -->
 * <a href='https://fevnem.github.io/blog/welcome/' target='_blank'>Welcome to My Digital Garden</a> - Tue, 20 Feb 2024 00:00:00 GMT
-* <a href='https://fevnem.github.io/blog/test/' target='_blank'>WebAssembly: The test</a> - Thu, 22 Feb 2024 00:00:00 GMT
 * <a href='https://fevnem.github.io/blog/webassembly-blog-post/' target='_blank'>WebAssembly: The Future of Web Performance</a> - Thu, 22 Feb 2024 00:00:00 GMT
 <!-- blog ends -->
 
