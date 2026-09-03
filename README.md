@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://fevnem.github.io/">
-     <img align="center" alt="Logo tri" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    </a>
     <span> tri</span>
 </h1>
 
