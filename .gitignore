@@ -1,3 +1,6 @@
 .DS_Store
 .idea/
 .vscode/
+# local-only preview harness (the rendered README, served for the tunnel preview);
+# never part of the published repo
+preview.html

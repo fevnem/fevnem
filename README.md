@@ -1,79 +1,113 @@
-<img align="right" alt="tri" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<!-- fevnem/fevnem · profile README
+     Every graphic below is hand-authored SVG committed in this repo: a real 3-D
+     projection for the hero, an isometric contribution field, and a typing
+     terminal. No build step, no CI, no third-party renderer can break the layout.
+     Regenerate any time with:  python3 tools/gen_hero.py | gen_terminal.py |
+     gen_contrib3d.py | gen_cards.py   (see tools/ for how the geometry works) -->
 
-<h1>
-    <a href="https://fevnem.github.io/">
-    </a>
-    <span> tri</span>
-</h1>
-
-<p style="text-align: justify; text-justify: inter-word;">
-Passionate python developer specializing in automation, bots, and API integrations. 
-Proficient in Git, GitHub, and scalable system design, I continuously refine my craft through 
-open-source contributions and cutting-edge tech. Enthusiastic about streamlining workflows, 
-optimizing performance, and innovating automation solutions. Currently expanding expertise in 
-AI-driven integrations and advanced backend development. Let's collaborate, innovate, and push 
-boundaries in the world of automation. See Latest Posts <a href="https://dev.to/fevnem">@fevnem</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/hero-3d.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/hero-3d-light.svg">
+    <img width="100%" alt="tri — python, go, js and backend developer" src="images/hero-3d.svg">
+  </picture>
 </p>
 
-<!--
-[![YouTube](https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF)](https://www.youtube.com/fevnem)
-[![GitHub Page](https://img.shields.io/badge/.github.io-67136f?style=for-the-badge)](https://.github.io/)
--->
+<p align="center"><a href="https://fevnem.github.io/about"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fevnem.github.io-0a0710?style=flat-square&logo=githubpages&logoColor=FF00F6"></a> <a href="https://www.linkedin.com/in/fevnem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Ffevnem-0a0710?style=flat-square&logo=linkedin&logoColor=FF00F6"></a> <a href="https://www.instagram.com/fevnem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fevnem-0a0710?style=flat-square&logo=instagram&logoColor=FF00F6"></a> <a href="mailto:contactsecretly@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-contactsecretly%40duck.com-0a0710?style=flat-square&logo=protonmail&logoColor=FF00F6"></a> <a href="https://dev.to/fevnem"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-fevnem-0a0710?style=flat-square&logo=devdotto&logoColor=FF00F6"></a></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://fevnem.github.io/about)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/fevnem/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/fevnem/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contactsecretly@duck.com)
+I build automation, bots and API integrations, and I care about the unglamorous
+half of it: making a workflow quietly disappear, making a service stay up, writing
+the thing so it still makes sense to whoever reads it in five years.
 
-<details align="left">
-  <summary></summary> 
-<h4><span>Languages Mostly In Use:</span></h4>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span><img src="https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript"></span>
-  <span><img src="https://img.shields.io/badge/-Typescript-2f1a47?style=flat&logo=typescript"></span>
-  <span><img src="https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react"></span>
-  <span><img src="https://img.shields.io/badge/-React%20Native-2f1a47?style=flat&logo=react"></span>
-  <span><img src="https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js"></span>
-  <span><img src="https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5"></span>
-    
-  <span><img src="https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5"></span>
-  <span><img src="https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js"></span>
-  <span><img src="https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss"></span>
-  <span><img src="https://img.shields.io/badge/-Markdown-2f1a47?style=flat&logo=markdown"></span>
-  <span><img src="https://img.shields.io/badge/-Electron-2f1a47?style=flat&logo=electron"></span>
-  <span><img src="https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git"></span>
-  
-</div>
-    
-<h4>Table Content Automatically Updated Via <a href="https://github.com/fevnem/fevnem/actions">Github Actions</a>
-<br>To Learn More About Github Actions, See <a href="https://docs.github.com/en/actions/writing-workflows/quickstarts">DOCS</a> & <a href="https://github.com/orgs/community/discussions/48283">FAQ</a></h4>
+Right now I'm going deeper into AI-driven integrations and backend systems, and I
+keep gravitating to tools that are dependency-free and readable by default — no
+build step, no framework, no ceremony.
 
-<table width="960px">
-<tr>
-<td valign="top" width="50%">
+**Currently:** shipping small self-contained things, usually with a game or an
+experiment inside them.
 
-  #### 🏊‍♂️ Screentime
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats_black.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats.svg">
-  <img src="https://raw.githubusercontent.com/fevnem/fevnem/main/images/wakatime_weekly_language_stats.svg">
-</picture>
+<p align="center">
+  <img width="100%" alt="tri@github: ~ — a terminal typing out tri's identity, stack and activity" src="images/terminal.svg">
+</p>
 
+## Stack
 
-</td>
-<td valign="top" width="50%">
+Lately, in roughly the order I reach for them:
 
-#### 🤾‍♂️ <a href="https://fevnem.github.io" target="_blank">Recent Blog</a>
+<p align="center"><img alt="Python" src="https://img.shields.io/badge/Python-0a0710?style=flat-square&logo=python&logoColor=FF00F6"> <img alt="Go" src="https://img.shields.io/badge/Go-0a0710?style=flat-square&logo=go&logoColor=FF00F6"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0a0710?style=flat-square&logo=javascript&logoColor=FF00F6"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0a0710?style=flat-square&logo=typescript&logoColor=FF00F6"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0a0710?style=flat-square&logo=nodedotjs&logoColor=FF00F6"> <img alt="React" src="https://img.shields.io/badge/React-0a0710?style=flat-square&logo=react&logoColor=FF00F6"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0a0710?style=flat-square&logo=nextdotjs&logoColor=FF00F6"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0a0710?style=flat-square&logo=tailwindcss&logoColor=FF00F6"> <img alt="Docker" src="https://img.shields.io/badge/Docker-0a0710?style=flat-square&logo=docker&logoColor=FF00F6"> <img alt="Linux" src="https://img.shields.io/badge/Linux-0a0710?style=flat-square&logo=linux&logoColor=FF00F6"> <img alt="Git" src="https://img.shields.io/badge/Git-0a0710?style=flat-square&logo=git&logoColor=FF00F6"></p>
 
-<!-- blog starts -->
-* <a href='https://fevnem.github.io/blog/welcome/' target='_blank'>Welcome to My Digital Garden</a> - Tue, 20 Feb 2024 00:00:00 GMT
-* <a href='https://fevnem.github.io/blog/webassembly-blog-post/' target='_blank'>WebAssembly: The Future of Web Performance</a> - Thu, 22 Feb 2024 00:00:00 GMT
-<!-- blog ends -->
+## Selected work
 
-</td>
+| Project | What it is |
+| --- | --- |
+| **[unfinished-lives](https://github.com/fevnem/unfinished-lives)** | The Archive of Unfinished Lives — a bureaucratic afterlife, played one file at a time. Dependency-free, no build step, 32 branching cases. |
+| **[fevnem.github.io](https://github.com/fevnem/fevnem.github.io)** | Personal site and notes. Plain HTML and CSS, deployed straight from the repo. |
+| **[fevnem](https://github.com/fevnem/fevnem)** | This profile — including the 3-D wireframe hero and the isometric contribution field, both generated by the scripts in `tools/`. |
 
-</table>
+A handful of other repos here are private: client automation, bot infrastructure,
+and a couple of experiments that aren't ready to be public yet.
 
-  <div align="right">Made with 💜 by <a href="https://github.com/fevnem">tri</a></div>
+## Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/contrib-3d.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/contrib-3d-light.svg">
+    <img width="100%" alt="Contribution field — the last twelve months drawn as an isometric bar field" src="images/contrib-3d.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/card-streak.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/card-streak-light.svg">
+    <img alt="Contribution streak" src="images/card-streak.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/card-activity.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/card-activity-light.svg">
+    <img width="100%" alt="Weekly contribution totals over the last twelve months" src="images/card-activity.svg">
+  </picture>
+</p>
+
+All three are **committed snapshots** — read from the GitHub API once, drawn here,
+and stored in this repo. They render whether or not a third-party stats service is
+having a good day, which is why there is no live stat card above them: both of the
+popular ones were returning errors when this was last checked.
+
+## Elsewhere
+
+- Writing — [fevnem.github.io](https://fevnem.github.io/)
+- Posts — [@fevnem on dev.to](https://dev.to/fevnem)
+- Mail — [contactsecretly@duck.com](mailto:contactsecretly@duck.com)
+
+Best way to reach me about code is an issue on the repo in question.
+
+<details>
+<summary>About this profile</summary>
+
+<br>
+
+Every image above is hand-authored SVG committed to this repo — no screenshot, no
+chart library, no badge service generating the artwork:
+
+- **Hero** — a real 3-D wireframe sphere (latitude rings and meridians) projected
+  through a fixed camera, spun with SMIL. Each meridian fades as it rotates round
+  the back, which is what gives it depth. Rendered in both dark and light themes
+  via `prefers-color-scheme`.
+- **Contribution field** — the last twelve months read from the GitHub GraphQL API
+  once and drawn as an isometric tile grid, one tile per day.
+- **Terminal** — a SMIL typing sequence with a blinking cursor.
+- **Snapshots** — the streak and activity cards are static, so they render even if
+  every third-party stats service is down.
+
+The generators are in [`tools/`](tools). They are one-off authoring scripts run by
+hand: there is no build step, no scheduled workflow, and nothing that can fail
+silently between releases.
 
 </details>
+
+<p align="center">Made with 💜 by <a href="https://github.com/fevnem">tri</a></p>
