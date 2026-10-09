@@ -31,8 +31,7 @@ Lately, in roughly the order I reach for them:
 | --- | --- |
 | **[unfinished-lives](https://github.com/fevnem/unfinished-lives)** | The Archive of Unfinished Lives — a bureaucratic afterlife, played one file at a time. Dependency-free, no build step, 32 branching cases. |
 | **[where-you-are](https://github.com/fevnem/where-you-are)** | Where You Are — an explorable explanation of how GPS actually finds you. Hand-written WebGL2, zero dependencies, no build step. |
-| **[fevnem.github.io](https://github.com/fevnem/fevnem.github.io)** | Personal site and notes. Plain HTML and CSS, deployed straight from the repo. |
-| **[fevnem](https://github.com/fevnem/fevnem)** | This profile — the 3-D wireframe hero and the isometric contribution field are hand-authored SVG, no chart library and no screenshot. |
+| **[github-stats](https://github.com/fevnem/github-stats)** | Live GitHub contribution stats as SVG — three cards generated at request time from the public calendar. No token, zero dependencies; runs on a VPS, in Docker or on Vercel. |
 
 A handful of other repos here are private: client automation, bot infrastructure,
 and a couple of experiments that aren't ready to be public yet.
