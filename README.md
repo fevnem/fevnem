@@ -19,10 +19,6 @@ build step, no framework, no ceremony.
 **Currently:** shipping small self-contained things, usually with a game or an
 experiment inside them.
 
-<p align="center">
-  <img width="100%" alt="tri@github: ~ — a terminal typing out tri's identity, stack and activity" src="images/terminal.svg">
-</p>
-
 ## Stack
 
 Lately, in roughly the order I reach for them:
@@ -34,6 +30,7 @@ Lately, in roughly the order I reach for them:
 | Project | What it is |
 | --- | --- |
 | **[unfinished-lives](https://github.com/fevnem/unfinished-lives)** | The Archive of Unfinished Lives — a bureaucratic afterlife, played one file at a time. Dependency-free, no build step, 32 branching cases. |
+| **[where-you-are](https://github.com/fevnem/where-you-are)** | Where You Are — an explorable explanation of how GPS actually finds you. Hand-written WebGL2, zero dependencies, no build step. |
 | **[fevnem.github.io](https://github.com/fevnem/fevnem.github.io)** | Personal site and notes. Plain HTML and CSS, deployed straight from the repo. |
 | **[fevnem](https://github.com/fevnem/fevnem)** | This profile — the 3-D wireframe hero and the isometric contribution field are hand-authored SVG, no chart library and no screenshot. |
 
