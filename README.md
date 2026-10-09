@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<p align="center"><a href="https://fevnem.github.io/about"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fevnem.github.io-0a0710?style=flat-square&logo=githubpages&logoColor=FF00F6"></a> <a href="https://www.linkedin.com/in/fevnem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Ffevnem-0a0710?style=flat-square&logo=linkedin&logoColor=FF00F6"></a> <a href="https://www.instagram.com/fevnem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fevnem-0a0710?style=flat-square&logo=instagram&logoColor=FF00F6"></a> <a href="mailto:contactsecretly@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-contactsecretly%40duck.com-0a0710?style=flat-square&logo=protonmail&logoColor=FF00F6"></a> <a href="https://dev.to/fevnem"><img alt="dev.to" src="https://img.shields.io/badge/dev.to-fevnem-0a0710?style=flat-square&logo=devdotto&logoColor=FF00F6"></a></p>
+<p align="center"><a href="https://fevnem.github.io/about"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fevnem.github.io-0a0710?style=flat-square&logo=githubpages&logoColor=FF00F6"></a> <a href="https://www.linkedin.com/in/fevnem/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-in%2Ffevnem-0a0710?style=flat-square&logo=linkedin&logoColor=FF00F6"></a> <a href="https://www.instagram.com/fevnem/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fevnem-0a0710?style=flat-square&logo=instagram&logoColor=FF00F6"></a> <a href="mailto:contactsecretly@duck.com"><img alt="Email" src="https://img.shields.io/badge/Email-contactsecretly%40duck.com-0a0710?style=flat-square&logo=protonmail&logoColor=FF00F6"></a></p>
 
 I build automation, bots and API integrations, and I care about the unglamorous
 half of it: making a workflow quietly disappear, making a service stay up, writing
@@ -40,32 +40,31 @@ and a couple of experiments that aren't ready to be public yet.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/contrib-3d.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/contrib-3d-light.svg">
-    <img width="100%" alt="Contribution field — the last twelve months drawn as an isometric bar field" src="images/contrib-3d.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-livid-three.vercel.app/field?user=fevnem&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-livid-three.vercel.app/field?user=fevnem&amp;theme=light">
+    <img width="100%" alt="Contribution field — the last twelve months drawn as an isometric bar field" src="https://github-stats-livid-three.vercel.app/field?user=fevnem&amp;theme=dark">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/card-streak.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/card-streak-light.svg">
-    <img alt="Contribution streak" src="images/card-streak.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-livid-three.vercel.app/streak?user=fevnem&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-livid-three.vercel.app/streak?user=fevnem&amp;theme=light">
+    <img alt="Contribution streak" src="https://github-stats-livid-three.vercel.app/streak?user=fevnem&amp;theme=dark">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/card-activity.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/card-activity-light.svg">
-    <img width="100%" alt="Weekly contribution totals over the last twelve months" src="images/card-activity.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-livid-three.vercel.app/activity?user=fevnem&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-livid-three.vercel.app/activity?user=fevnem&amp;theme=light">
+    <img width="100%" alt="Weekly contribution totals over the last twelve months" src="https://github-stats-livid-three.vercel.app/activity?user=fevnem&amp;theme=dark">
   </picture>
 </p>
 
 ## Elsewhere
 
 - Writing — [fevnem.github.io](https://fevnem.github.io/)
-- Posts — [@fevnem on dev.to](https://dev.to/fevnem)
 - Mail — [contactsecretly@duck.com](mailto:contactsecretly@duck.com)
 
 Best way to reach me about code is an issue on the repo in question.
